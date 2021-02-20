@@ -24,6 +24,7 @@ If you don't have some of these libraries, you can install them using pip or ano
 ## Instructions for Use
 
 If you just want to test our method, you can use "./main.py".
+The detailed usage and code annotations will be added later.
 
 
 ## Examples and Comparison Results
