@@ -3,6 +3,9 @@ Analyzing 2D EM image sequences of biological tissues in a 3D context is necessa
 
 Human Attention-inspired Volume Reconstruction Method on Serial Section Electron Microscopy Images
 
+![3D Aligning](https://github.com/FangxuZhou7/SA-Net/blob/main/show-img/3D%20volume%20reconstruction.png)
+![3D Aligning](https://github.com/FangxuZhou7/SA-Net/blob/main/show-img/inspired.png)
+
 ## Table of Contents
 
 - [Dependencies](#Dependencies)
@@ -28,7 +31,8 @@ If you just want to test our method, you can use "./main.py".
 
 Here are some examples of aligning serial EM images using different image registration algorithms. And intuitively, our method has also achieved the best results
 
-![Aligning results](https://github.com/FangxuZhou7/SA-Net/blob/main/paper_resImg/FIgure%206.tif)
+![Aligning results](https://github.com/FangxuZhou7/SA-Net/blob/main/show-img/res1.png)
+![Aligning results](https://github.com/FangxuZhou7/SA-Net/blob/main/show-img/res.png)
 
 ## Contributing
 Please refer to the paper "Human Attention-inspired Volume Reconstruction Method on Serial Section Electron Microscopy Images".
