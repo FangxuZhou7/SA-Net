@@ -28,7 +28,7 @@ If you just want to test our method, you can use "./main.py".
 
 Here are some examples of aligning serial EM images using different image registration algorithms. And intuitively, our method has also achieved the best results
 
-![Denoising results](https://github.com/VictorCSheng/VSID-Net/raw/main/paper_image/results.png)
+![Aligning results](https://github.com/FangxuZhou7/SA-Net/blob/main/paper_resImg/FIgure%206.tif)
 
 ## Contributing
 Please refer to the paper "Human Attention-inspired Volume Reconstruction Method on Serial Section Electron Microscopy Images".
