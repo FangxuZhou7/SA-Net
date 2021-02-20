@@ -1,5 +1,5 @@
 # SA-Net
-Inspired by finding correspondences manually, which uses the topological relationship of image contents, we developed an attention-based neural network method for serial EM image registration to improve the registration accuracy.  More detail can be found in the following paper:
+Analyzing 2D EM image sequences of biological tissues in a 3D context is necessary to restore the original 3D integrity destroyed by physical sectioned by aligning the serial 2D images. However, similar texture intra-section and complex variations of serial EM images intersections make it challenging to find the correct correspondences. Inspired by finding correspondences manually, which uses the topological relationship of image contents, we developed an attention-based neural network method for serial EM image registration to improve the registration accuracy.  More detail can be found in the following paper:
 
 Human Attention-inspired Volume Reconstruction Method on Serial Section Electron Microscopy Images
 
