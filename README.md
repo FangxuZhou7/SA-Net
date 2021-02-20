@@ -3,8 +3,7 @@ Analyzing 2D EM image sequences of biological tissues in a 3D context is necessa
 
 Human Attention-inspired Volume Reconstruction Method on Serial Section Electron Microscopy Images
 
-![3D Aligning](https://github.com/FangxuZhou7/SA-Net/blob/main/show-img/3D%20volume%20reconstruction.png)
-![3D Aligning](https://github.com/FangxuZhou7/SA-Net/blob/main/show-img/inspired.png)
+![3D Aligning](https://github.com/FangxuZhou7/SA-Net/blob/main/show-img/3D%20volume%20reconstruction%20and%20inspired.png)
 
 ## Table of Contents
 
